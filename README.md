@@ -1,3 +1,3 @@
 # Seattle University
 
-# DEMO description
+# DEMO description!
